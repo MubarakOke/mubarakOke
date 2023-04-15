@@ -4,10 +4,10 @@
 
 ## Overview
 <div align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mubarakOke&theme=solarized" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mubarakOke&theme=solarized" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mubarakOke&theme=solarized&utcOffset=8" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mubarakOke&theme=solarized" />  
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mubarakOke&theme=default" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mubarakOke&theme=default" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mubarakOke&theme=default&utcOffset=8" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mubarakOke&theme=default" />  
 </div>
 
 ## Achievements
