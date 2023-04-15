@@ -66,7 +66,7 @@
 
 
 
-- 🔭 I’m currently working on my youtube channel and start up
+- 🔭 I’m currently working on my start up
 - 🌱 I’m currently learning WebXR, Rocket framework and Blockchain
 - 👯 I’m looking to collaborate on any awesome projects
 - 🤔 I’m looking for help with you!
